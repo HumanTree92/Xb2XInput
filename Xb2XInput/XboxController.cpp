@@ -49,6 +49,7 @@ std::vector<std::pair<int, int>> xbox_devices =
   {0x0F30, 0x8888}, // BigBen XBMiniPad Controller
   {0x102C, 0xFF0C}, // Joytech Wireless Advanced Controller
   {0xFFFF, 0xFFFF}, // PowerWave Xbox Controller (The ID's may look sketchy but this controller actually uses it)
+  {0x1430, 0x1000}, // Xbox DDR Pad
 };
 
 UserSettings defaults_;
