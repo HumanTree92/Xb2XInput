@@ -60,6 +60,7 @@ wdi-simple --vid 0x102C --pid 0xFF0C --type 0 --name "Joytech Wireless Advanced 
 wdi-simple --vid 0x0738 --pid 0x4522 --type 0 --name "MadCatz LumiCON"
 wdi-simple --vid 0xFFFF --pid 0xFFFF --type 0 --name "PowerWave Xbox Controller"
 wdi-simple --vid 0x1430 --pid 0x1000 --type 0 --name "Xbox DDR Pad"
+wdi-simple --vid 0x1430 --pid 0x8888 --type 0 --name "Redoctane Xbox DDR"
 
 echo Driver installation complete!
 :exit
